@@ -1,13 +1,14 @@
 # Consulta Perfil GitHub
 Programa desenvolvido para desafio técnico CosmoBots
 
-
+<div 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Junior-Hecht/consulta-perfil-github?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Junior-Hecht/consulta-perfil-github?style=for-the-badge)
 
-![Capturar](https://user-images.githubusercontent.com/79392428/167131031-166da127-06d8-46fa-a9c0-6fb9e712be8c.PNG)
-![consultaPerfilGitHub](https://user-images.githubusercontent.com/79392428/167131047-d510d41d-8aff-49c1-99ea-16cf63ec7672.PNG)
-![listadeRepositórios](https://user-images.githubusercontent.com/79392428/167131065-a697be7c-bd17-440c-a997-6c02a2482829.PNG)
+![Capturar](https://user-images.githubusercontent.com/79392428/167136407-cce17dbb-a355-485a-adc2-b0ac037e31d3.PNG)
+![consultaPerfilGitHub](https://user-images.githubusercontent.com/79392428/167136424-a16684d0-ee7d-41f0-b693-8690f5d678c6.PNG)
+![listadeRepositórios](https://user-images.githubusercontent.com/79392428/167136438-d7c443c9-2e04-4972-b5ac-455a50ba85e1.PNG)
+
 
 >Ferramenta de busca de perfil no GitHub <br>
 >Com esse programa o usuário pode pesquisar através de um username e encontrar usuários Github, seus números de seguidores e seguindo, além dos números e uma lista completa com seus repositórios 
