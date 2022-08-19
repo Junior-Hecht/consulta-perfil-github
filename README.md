@@ -1,5 +1,5 @@
 # Consulta Perfil GitHub
-Programa desenvolvido para desafio técnico CosmoBots
+
 
 <div 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Junior-Hecht/consulta-perfil-github?style=for-the-badge)
